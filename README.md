@@ -19,6 +19,8 @@ python app.py
 
 `make run`
 
+#### To download the image and run container:
+`docker container run -d -p 5000:5000 --name flask jeammyb/flask-app:latest`
 
 ## URL Examples
 
